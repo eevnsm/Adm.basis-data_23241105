@@ -1,5 +1,5 @@
--- Nama : Angga Saputra
--- Nim  : 23241084
+-- Nama : Sami Sayyiddin
+-- Nim  : 23241105
 -- Kelas: C
 -- Kelas: Pendidikan Teknologi Informasi
 
