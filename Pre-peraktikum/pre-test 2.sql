@@ -1,5 +1,5 @@
--- nama : Angga Saputra
--- NIM : 23241084
+-- nama : Sami Sayyiddin
+-- NIM : 23241105
 -- kelas : C
 
 -- Melihat database yang ada
