@@ -11,6 +11,6 @@ USE mysql;
 show TABLES
 
 --Mendeskripsikan sebuah table yang di pilih ex. tabel 'user'
-DESCRIBEE user;
---Melihat isi tabel user, khusu untuk kolom host, user dam password
+DESCRIBE user;
+--Melihat isi tabel user, khusu untuk kolom host, user dan password
 select host, user, password FROM user
