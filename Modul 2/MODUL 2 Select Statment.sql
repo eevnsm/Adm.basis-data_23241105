@@ -1,5 +1,5 @@
--- Nama  : Angga Saputra
--- NIM   : 23241084
+-- Nama  : Sami Sayyiddin
+-- NIM   : 23241105
 -- Kelas : C  
 -- Modul : Modul 1 SELECT, PREFIX dan ALIAS
 
